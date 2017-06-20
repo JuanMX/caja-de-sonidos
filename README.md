@@ -181,3 +181,5 @@ En Windows puede mover su cursor a la barra de tareas y después dar click derec
 ## La licencia
 
 El proyecto [JLayer](http://www.javazoom.net/javalayer/sources.html) de javazoom.net tiene una licencia LGPL mientras que la caja de sonidos tiene una licenica GPL-3.0 de acuerdo con [la tabla de compatibilidad de licencias](https://www.gnu.org/licenses/gpl-faq.html#AllCompatibility) de gnu ambas licencias son compatibles.
+
+Como nota final las imágenes y sonidos usados no son de mi propiedad, se usan de manera desmostrativa sin fines comerciales.
