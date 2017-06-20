@@ -1,16 +1,16 @@
 # Caja de sonidos BETA
 
-![Ventana principal](./Img/Caja de sonidos BETA.png)
+![Ventanaprincipal](./Img/Caja_de_sonidos_BETA.png)
 
 Este programa (o aplicación llamado Caja de sonidos) tiene botones con imágenes y texto los cuáles al dar click reproduce un archivo mp3 que contiene un efecto de sonido. Puede modificar los botones como la imágen que se muestra o el sonido que se reproduce, eliminar el botón y agregar nuevos botones.
 
 # Contenido
 
-* [Descargar el fuente o ejecutable](#descargar-el-fuente)
+* [Descargar el fuente o ejecutable](#descargar-el-fuente-o-ejecutable)
 
-* [Instalar Java jdk en Windows y Ubuntu para ejecutar este programa](#instalar-java-jdk)
+* [Instalar Java jdk en Windows y Ubuntu para ejecutar este programa](#instalar-java-jdk-en-windows-y-ubuntu-para-ejecutar-este-programa)
 
-* [Usar la caja de sonidos](#usar-la-caja)
+* [Usar la caja de sonidos](#usar-la-caja-de-sonidos)
 
     * [Reproducir un sonido](#reproducir-un-sonido)
 
@@ -19,6 +19,8 @@ Este programa (o aplicación llamado Caja de sonidos) tiene botones con imágene
     * [Agregar un nuevo botón](#agregar-un.nuevo-boton)
     
 * [Problemas conocidos](#problemas-conocidos)
+
+* [Posibles mejoras a futuro](#posibles-mejoras-a-futuro)
 
 * [La licencia](#la-licencia)
 
@@ -60,7 +62,7 @@ java -jar Caja_de_sonidos.jar
 
 En Windows debe dar doble click en el .jar o click derecho -> abrir con -> java SE binary. Para ambos casos debe aparecer una ventana parecida a la siguiente.
 
-![Principal](./Img/Caja de sonidos BETA.png)
+![Principal](./Img/Caja_de_sonidos_BETA.png)
 
 Algunos botones tienen uns frase de ayuda que se visualiza si pone el cursor sobre el botón por unos momentos.
 
@@ -74,11 +76,11 @@ Permite cabiar las propiedades de los botones que son: Su nombre, la frase de ay
 
 Al dar click en este botón se ve una ventana como la siguiente.
 
-![Modificar boton](./Img/SELECCIONE EL BOTON A MODIFICAR.png)
+![Modificar boton](./Img/SELECCIONE_EL_BOTON_A_MODIFICAR.png)
 
 En el cual deberá dar click nuevamente en el botón que quiera modificar, en este caso se va a a dar click en el botón *Mal chiste* con la imágen de un grillo. Las modificaciones que se realizarán son quitar la imágen y poner como frase de ayuda Canto de grillo.
 
-![Cambio de propiedades](./Img/Cambio de propiedades.png)
+![Cambio de propiedades](./Img/Cambio_de_propiedades.png)
 
 Como se puede ver las casillas de verificación permiten quitar la imágen o la frase de ayuda.
 
@@ -88,7 +90,7 @@ Al guardar los cambios \(click en el botón guardar\) se debe ver el mensaje de 
 
 Y el resultado al cerrar y abrir la aplicación es el siguiente.
 
-![Resultado propiedades](./Img/Resultado propiedades.png)
+![Resultado propiedades](./Img/Resultado_propiedades.png)
     
 * #### El botón *Reiniciar todos los valores*
     
@@ -96,17 +98,17 @@ Este botón pone en todos los campos la palabra NADA, si guarda los cambios **co
 
 En este ejemplo se eliminará el botón que selecciona el cursor.
 
-![Nuevo boton resultado](./Img/Nuevo resultado.png)
+![Nuevo boton resultado](./Img/Nuevo_resultado.png)
 
-![Elima](./Img/Eliminar boton.png)
+![Elima](./Img/Eliminar_boton.png)
 
 Al dar click pone en todos los campos la palabra NADA y aparece el siguiente mensaje.
 
-![Mensaje reinicio](./Img/Mensaje reinicio.png)
+![Mensaje reinicio](./Img/Mensaje_reinicio.png)
 
 Si guardamos **con el campo *Origen del sonido* puesto en NADA** se muestra el siguiente mensaje.
 
-![Mensaje de eliminado](./Img/Mensaje eliminado.png)
+![Mensaje de eliminado](./Img/Mensaje_eliminado.png)
 
 * ### El botón *Nuevo boton*
 
@@ -114,11 +116,11 @@ Permite agregar un botón nuevo a la Caja de sonidos.
 
 Al dar click en este botón se ve una ventana como la siguiente.
 
-![Nuevo sonido](./Img/Nuevo vacio.png)
+![Nuevo sonido](./Img/Nuevo_vacio.png)
 
 Se procede a llenar los campos, note como las casillas de verificación habilitan escribir una frase de ayuda y el seleccionar una imágen
 
-![Nuevo sonido llenado](./Img/Nuevo lleno.png)
+![Nuevo sonido llenado](./Img/Nuevo_lleno.png)
 
 Al guardar \(click en el botón Guardar\) debe ver un mensaje como el siguiente
 
@@ -126,23 +128,23 @@ Al guardar \(click en el botón Guardar\) debe ver un mensaje como el siguiente
 
 Y el resultado es el siguiente
 
-![Nuevo boton resultado](./Img/Nuevo resultado.png)
+![Nuevo boton resultado](./Img/Nuevo_resultado.png)
 
 Cuando **no** selecciona un sonido aparece un mensaje como el siguiente.
 
-![Error no sonido](./Img/ERROR no sonido.png)
+![Error no sonido](./Img/ERROR_no_sonido.png)
 
 Las imágenes mostradas son del programa funcionando en Ubuntu pero si usa Windows no debe tener problemas a continuación se muestran unas imágenes.
 
-![Main W](./Img/main WINDOWS.JPG)
+![Main W](./Img/main_WINDOWS.JPG)
 
-![ejemplo 1](./Img/modificar boton WINDOWS.JPG)
+![ejemplo 1](./Img/modificar_boton_WINDOWS.JPG)
 
-![ejemplo 2](./Img/nuevo sonido WINDOWS.JPG)
+![ejemplo 2](./Img/nuevo_sonido_WINDOWS.JPG)
 
 por si se encuentra interesado en el uso de recursos aquí una imágen
 
-![Uso recursos](./Img/uso de recursos WINDOWS.JPG)
+![Uso recursos](./Img/uso_de_recursos_WINDOWS.JPG)
 
 
 ## Problemas conocidos
