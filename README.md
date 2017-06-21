@@ -28,7 +28,7 @@ Este programa (o aplicación llamado Caja de sonidos) tiene botones con imágene
 
 Lo que se encuentra en el repositorio son los archivos fuente y la libreria usada llamada JLayer.
 
-Si lo que necesita es el archivo ejecutable para usar la caja de sonidos \(que es un archivo .jar\) lo puede encontrar [aqui](https://github.com/JuanMX/caja-de-sonidos/releases/download/v0.1-beta/Caja.de.sonidos.USUARIO.zip)
+Si necesita el archivo ejecutable para usar la caja de sonidos \(que es un archivo .jar\) lo puede encontrar [aqui](https://github.com/JuanMX/caja-de-sonidos/releases/download/v0.1-beta/Caja.de.sonidos.USUARIO.zip)
 
 Esta caja de sonidos se programó usando el IDE NetBeans, si necesita el proyecto exportado como un archivo zip lo puede encontrar [aqui](https://github.com/JuanMX/caja-de-sonidos/releases/download/v0.1-beta/Caja.de.sonidos.PROYECTO.NETBEANS.zip)
 
