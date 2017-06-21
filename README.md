@@ -30,7 +30,7 @@ Lo que se encuentra en el repositorio son los archivos fuente y la libreria usad
 
 Si lo que necesita es el archivo ejecutable para usar la caja de sonidos \(que es un archivo .jar\) lo puede encontrar [aqui](https://github.com/JuanMX/caja-de-sonidos/releases/download/v0.1-beta/Caja.de.sonidos.USUARIO.zip)
 
-Esta caja de sonidos fue hecha usando NetBeans por lo que si necesita el proyecto exportado como un archivo zip lo puede encontrar [aqui](https://github.com/JuanMX/caja-de-sonidos/releases/download/v0.1-beta/Caja.de.sonidos.PROYECTO.NETBEANS.zip)
+Esta caja de sonidos se programó usando el IDE NetBeans, si necesita el proyecto exportado como un archivo zip lo puede encontrar [aqui](https://github.com/JuanMX/caja-de-sonidos/releases/download/v0.1-beta/Caja.de.sonidos.PROYECTO.NETBEANS.zip)
 
 ## Instalar Java jdk en Windows y Ubuntu para ejecutar este programa
 
