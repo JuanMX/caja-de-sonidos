@@ -34,8 +34,6 @@ Esta caja de sonidos se programó usando el IDE NetBeans, **si necesita el proye
 
 ## Instalar Java jdk en Windows y Ubuntu para usar este programa
 
-Este **NO** es el Java que se usa para ver ciertas cosas en sitios de internet (complemento Java, Java para navegadores web o como usted lo conozca), Java jdk es lo que permite programar y correr programas escritos en el lenguaje de programación Java, por ejemplo, esta caja de sonidos.
-
 Necesita Java jdk en su versión 7 o superior. Si usted no lo tiene se muestra a continuación como  obtenerlo.
 
 En ubuntu y derivados se debe escribir estas lineas en la terminal:
